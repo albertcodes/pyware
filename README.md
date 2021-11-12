@@ -14,7 +14,7 @@
 
 <img align="left" width="85" height="80" src="https://github.com/albertcodes/pyware/blob/main/docs/img/unilicense_logo.png">
 
-**PyWare** is licenced by _The Unlicense_  
+**PyWare** is licensed by **_The Unlicense_**  
 For more information, please refer to [The Unlicense](http://unlicense.org/)
 
 <br>
