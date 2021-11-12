@@ -1,0 +1,5 @@
+{
+  "blurb": "An enum is a set of unique names that are bound to unique, *constant* values and thereafter are immutable. Enums are defined by inheriting an \"Enum\" class. Built-in enum types are available in the module \"enum\" and the class \"Enum\" can be imported using \"from enum import Enum\" syntax.",
+  "authors": ["mohanrajanr", "BethanyG"],
+  "contributors": ["valentin-p"]
+}

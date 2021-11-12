@@ -1,0 +1,5 @@
+{
+  "blurb": "There are two looping constructs in Python:  while loops for indefinite/uncounted iteration,  and for loops for definite/counted iteration. The keywords break, continue, and else help customize loop behavior. The range() and enumerate() functions help with loop counting and indexing.",
+  "authors": ["BethanyG"],
+  "contributors": []
+}
