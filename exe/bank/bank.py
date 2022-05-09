@@ -93,8 +93,8 @@ def launcher():
             account = random.randint(100000, 999999)
             client = Bank(created, name, type, account, init)
             client.save()
-            print(f"\n\tYour account number is {account}.")
-            print(f"\n\tCreated on {created}.\n")
+            print("\n\tYour account number is {account}.")
+            print("\n\tCreated on {created}.\n")
 
             # CALCULATE INTEREST BASED ON ACCOUNT TYPE:
 
